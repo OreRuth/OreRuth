@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OreRuth
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Product Design
-- 💞️ I’m looking to collaborate on Produc Design Gigs
+- 💞️ I’m looking to collaborate on Product Design Gigs
 - 📫 How to reach me ... fatoyeruth@gmail.com
 
 <!---
